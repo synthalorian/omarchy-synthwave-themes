@@ -30,7 +30,7 @@ Three synthwave themes for [Omarchy](https://omarchy.org): neon palettes, proced
 ## Install
 
 ```bash
-git clone https://github.com/Blackshield-Company/omarchy-synthwave-themes
+git clone https://github.com/synthalorian/omarchy-synthwave-themes
 cd omarchy-synthwave-themes
 ./install.sh list
 ./install.sh theme neon-horizon                    # copies to ~/.config/omarchy/themes and applies it
